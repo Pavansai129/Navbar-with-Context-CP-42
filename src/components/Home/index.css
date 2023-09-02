@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.light-theme-text {
+  color: black;
+}
+.dark-theme-text {
+  color: white;
+}
+.light-background {
+  background-color: white;
+}
+.dark-background {
+  background-color: black;
+}

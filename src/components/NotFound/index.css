@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.not-found-image {
+  height: 300px;
+  width: 300px;
+}
+.light-theme-text {
+  color: black;
+}
+.dark-theme-text {
+  color: white;
+}
+.light-background {
+  background-color: white;
+}
+.dark-background {
+  background-color: black;
+}

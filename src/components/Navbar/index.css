@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.dark-theme-navbar {
+  background-color: black;
+}
+.light-theme-text {
+  color: black;
+}
+.dark-theme-text {
+  color: white;
+}
